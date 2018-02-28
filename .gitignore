@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
-<center>
-<img src="logo.png" alt="The Daily Star" width="275" height="49">
-<p><b>Monday,</b>"January 29, 2018</p>
-</center>
+<select>
+<option Value="volvo">volvo</option>
+<option value="saab">Saab</option>
+<option value="opel">Opel</option>
+<option value="audi"Audi</option>
+</select>
 </body>
 </html>
